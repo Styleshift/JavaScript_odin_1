@@ -1,2 +1,2 @@
 # JavaScript_odin_1
-Practice (Console)
+Practice (Console Print out)
